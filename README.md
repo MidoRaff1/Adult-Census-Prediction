@@ -1,6 +1,7 @@
 # Adult-Census-Prediction
 
-Project Objectives
+Project Objectives:
+
 Data Exploration: Perform exploratory data analysis to understand the characteristics and distributions of features in the dataset.
 
 Data Preprocessing: Clean and preprocess the data, handling missing values, encoding categorical variables, and scaling features as necessary.
@@ -14,8 +15,8 @@ Model Evaluation: Assess model performance using metrics like accuracy, precisio
 Model Interpretation: Interpret the models to understand which features are most influential in predicting income levels.
 
 
-Dataset
+Dataset:
 The dataset used in this project is the Adult Census Income dataset. It contains demographic information, education, and occupation data for individuals. The target variable is binary, indicating whether an individual earns more than $50,000 annually.
 
-License
+License:
 This project is licensed under the MIT License.
